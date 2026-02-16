@@ -1,2 +1,2 @@
-# churn-prediction-telecom
+# interconnect-churn-prediction
 Modelo de predicción de fuga de clientes usando Machine Learning (Python, Scikit-learn, CatBoost)
